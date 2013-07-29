@@ -1,7 +1,7 @@
 <article>
 
-<table border="0">
-<tr><td><img src="https://code.google.com/p/ria-scip/logo?cct=1363080172" alt="Logo" itemprop="image"></td><td valign="bottom"><h1>web-scip</h1></td></tr>
+<table border="0" cellpadding="0">
+<tr><td valign="center"><img src="https://code.google.com/p/ria-scip/logo?cct=1363080172" alt="Logo" itemprop="image"></td><td valign="center"><h1>web-scip</h1></td></tr>
 </table>
 
 <h2>Web Server Control Invisibility Purge!</h2>
@@ -37,12 +37,6 @@ SCIP also provides a manual interface for performing additional RIA/ASP.net targ
 <hr/>
 <img src="http://ria-scip.googlecode.com/svn/wiki/images/SCIP-RIA Event Enumerator.png" alt="WEB-SCIP in action" itemprop="image">
 <br>
-<hr/>
-<iframe width="560" height="315" frameborder="0"
- src="http://www.youtube.com/embed/0c8Y7TlXcWs">
-</iframe>
-<br>
-<hr/>
 </p>
 
 <p>
