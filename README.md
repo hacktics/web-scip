@@ -35,7 +35,7 @@ SCIP can locate insecure ASP.net configuration, as well as locate traces of invi
 <br>
 SCIP also provides a manual interface for performing additional RIA/ASP.net targeted attacks such as reusing hijacked viewstate/eventvalidation fields, reconstructing viewstate fields after content alteration/parameter tampering, etc.<br>
 <hr/>
-<img src="http://ria-scip.googlecode.com/svn/wiki/images/SCIP-RIA Event Enumerator.png" alt="WEB-SCIP in action" itemprop="image">
+<img src="http://ria-scip.googlecode.com/svn/wiki/images/SCIP-RIA%20Event%20Enumerator.png" alt="WEB-SCIP in action" itemprop="image">
 <br>
 </p>
 
